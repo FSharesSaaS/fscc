@@ -10,7 +10,7 @@ import (
 	"github.com/FSharesSaaS/fshares.fsgo/ecc"
 	"github.com/FSharesSaaS/fshares.fsgo/system"
 	"github.com/FSharesSaaS/fshares.fsgo/token"
-	"github.com/eoscanada/eosc/bios/unregd"
+	"github.com/FSharesSaaS/fscc/bios/unregd"
 )
 
 type Operation interface {

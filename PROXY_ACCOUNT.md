@@ -2,7 +2,7 @@
 
 ## Use `eosc` to Create a New Account
 
-Grab the latest version of `eosc` from https://github.com/eoscanada/eosc/releases
+Grab the latest version of `eosc` from https://github.com/FSharesSaaS/fscc/releases
 
 Once unpacked, run:
 ```

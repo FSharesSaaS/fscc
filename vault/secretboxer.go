@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/eoscanada/eosc/cli"
+	"github.com/FSharesSaaS/fscc/cli"
 	"github.com/pkg/errors"
 )
 

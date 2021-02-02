@@ -7,7 +7,7 @@ import (
 	_ "github.com/FSharesSaaS/fshares.fsgo/system"
 	_ "github.com/FSharesSaaS/fshares.fsgo/token"
 
-	"github.com/eoscanada/eosc/eosc/cmd"
+	"github.com/FSharesSaaS/fscc/eosc/cmd"
 )
 
 var version = "dev"

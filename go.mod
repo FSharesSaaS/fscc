@@ -1,4 +1,4 @@
-module github.com/eoscanada/eosc
+module github.com/FSharesSaaS/fscc
 
 require (
 	github.com/abourget/llerrgroup v0.0.0-20161118145731-75f536392d17

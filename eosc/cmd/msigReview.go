@@ -8,7 +8,7 @@ import (
 	"os"
 
 	eos "github.com/FSharesSaaS/fshares.fsgo"
-	"github.com/eoscanada/eosc/analysis"
+	"github.com/FSharesSaaS/fscc/analysis"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

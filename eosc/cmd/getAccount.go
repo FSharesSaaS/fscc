@@ -8,7 +8,7 @@ import (
 	"github.com/ryanuber/columnize"
 
 	eos "github.com/FSharesSaaS/fshares.fsgo"
-	"github.com/eoscanada/eosc/cli"
+	"github.com/FSharesSaaS/fscc/cli"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

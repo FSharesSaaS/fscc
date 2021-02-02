@@ -7,8 +7,8 @@ import (
 	"os"
 
 	"github.com/FSharesSaaS/fshares.fsgo/ecc"
-	"github.com/eoscanada/eosc/cli"
-	eosvault "github.com/eoscanada/eosc/vault"
+	"github.com/FSharesSaaS/fscc/cli"
+	eosvault "github.com/FSharesSaaS/fscc/vault"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

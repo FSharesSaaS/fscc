@@ -18,14 +18,14 @@ for interacting with an EOS.IO blockchain.
 
 ## Installation
 
-1. Install from https://github.com/eoscanada/eosc/releases
+1. Install from https://github.com/FSharesSaaS/fscc/releases
 
 **or**
 
 2. Build from source with:
 
 ```bash
-go get -u -v github.com/eoscanada/eosc/eosc
+go get -u -v github.com/FSharesSaaS/fscc/eosc
 ```
 
 **or**

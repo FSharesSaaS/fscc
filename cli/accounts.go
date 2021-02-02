@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
+	eos "github.com/FSharesSaaS/fshares.fsgo"
+	"github.com/FSharesSaaS/fshares.fsgo/ecc"
 )
 
 var reValidAccount = regexp.MustCompile(`[a-z12345]*`)

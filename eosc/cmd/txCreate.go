@@ -9,8 +9,8 @@ import (
 	"encoding/json"
 	"io"
 
-	eos "github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/system"
+	eos "github.com/FSharesSaaS/fshares.fsgo"
+	"github.com/FSharesSaaS/fshares.fsgo/system"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

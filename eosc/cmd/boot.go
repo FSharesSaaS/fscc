@@ -3,7 +3,7 @@ package cmd
 import (
 	"path/filepath"
 
-	eos "github.com/eoscanada/eos-go"
+	eos "github.com/FSharesSaaS/fshares.fsgo"
 	"github.com/eoscanada/eosc/bios"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/cobra"

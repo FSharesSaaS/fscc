@@ -5,7 +5,7 @@ package cmd
 import (
 	"context"
 
-	"github.com/eoscanada/eos-go/token"
+	"github.com/FSharesSaaS/fshares.fsgo/token"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

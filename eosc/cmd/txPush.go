@@ -12,7 +12,7 @@ import (
 	"regexp"
 	"strings"
 
-	eos "github.com/eoscanada/eos-go"
+	eos "github.com/FSharesSaaS/fshares.fsgo"
 	"github.com/spf13/cobra"
 	"github.com/tidwall/gjson"
 )

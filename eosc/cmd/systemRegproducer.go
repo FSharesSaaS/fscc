@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/eoscanada/eos-go/ecc"
-	"github.com/eoscanada/eos-go/system"
+	"github.com/FSharesSaaS/fshares.fsgo/ecc"
+	"github.com/FSharesSaaS/fshares.fsgo/system"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )
